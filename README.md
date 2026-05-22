@@ -1,2 +1,2 @@
 # aqsa
-bioinformatics student/learning data integration/studebt at gcuf
+bioinformatics student/learning data integration/student at gcuf
